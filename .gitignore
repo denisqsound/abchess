@@ -1,0 +1,8 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.env
+/account_abchess.json
+/account_abchess_original.json

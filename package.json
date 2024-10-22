@@ -1,0 +1,22 @@
+{
+  "name": "abchess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisqsound/abchess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisqsound/abchess/issues"
+  },
+  "homepage": "https://github.com/denisqsound/abchess#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.8"
+  }
+}
